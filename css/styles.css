@@ -1,0 +1,9 @@
+ul li a :hover{
+  box-shadow: 3px 2px 3px grey;
+  background-color:rgb(255,255,0);
+  cursor: pointer;
+  color: rgb(245, 70, 18);
+a {
+  /*text-align: center;*/
+  display: inline-block;
+}
